@@ -1,0 +1,3 @@
+/Users/diegolizarraga/Desktop/TextEditorAtHome/cmake-build-debug/CMakeFiles/TextEditorAtHome.dir
+/Users/diegolizarraga/Desktop/TextEditorAtHome/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diegolizarraga/Desktop/TextEditorAtHome/cmake-build-debug/CMakeFiles/rebuild_cache.dir
